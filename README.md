@@ -1,3 +1,6 @@
+# Name: Alexandre Anthony
+# 10022200175
+
 # Cloud E-Commerce Platform
 
 A comprehensive full-stack e-commerce platform built with Next.js, TypeScript, and MongoDB. This platform includes all the features needed for a modern e-commerce experience, from user authentication to order management.
